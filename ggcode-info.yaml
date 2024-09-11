@@ -1,0 +1,12 @@
+name: core
+actions:
+- name: test/util/array
+  path: actions/test/util/array.luau
+- name: test/util/path
+  path: actions/test/util/path.luau
+- name: test/util/string
+  path: actions/test/util/string.luau
+- name: test/util/uri
+  path: actions/test/util/uri.luau
+- name: test/util/case
+  path: actions/test/util/case.luau
